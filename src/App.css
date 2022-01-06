@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.table {
+  width: fit-content;
+  height: auto;
+  text-align: center;
+}
+
+.table img {
+  width: 45px;
+  cursor: pointer;
+}
+
+.table img:hover {
+  color: #a2c6ce;
+}
+
+.coutryAlert {
+  align-content: center;
+  align-items: center;
+  height: auto;
+}
+
+.rotate {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}

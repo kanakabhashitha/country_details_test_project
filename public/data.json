@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "countryName" : "Sri Lanka",
+      "currency" : "SL Rupee",
+      "population" : "21.92 million (2020)",
+      "flagUri" : "https://camo.githubusercontent.com/e7c43c239df67483c0ebefa5b9d1cf78367013a8ebe5fbb6fa1faa89cd52d8e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31312f466c61675f6f665f5372695f4c616e6b612e737667",
+      "gdp": "$80.7 billion (2020 prov)"
+    },
+    {
+      "id": "2",
+      "countryName" : "India",
+      "currency" : "Indian Rupee",
+      "population" : "1.38 billion (2020)",
+      "flagUri" : "https://camo.githubusercontent.com/2546957f2e3fe70025be6d9ac31e04e0d3495cab60003b412e2ae9ef15265bae/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34312f466c61675f6f665f496e6469612e737667",
+      "gdp": "2.623 trillion USD (2020)"
+    },
+    {
+      "id": "3",
+      "countryName" : "Austria",
+      "currency" : "Euro",
+      "population" : "8.917 million (2020)",
+      "flagUri" : "https://camo.githubusercontent.com/7c0a6561230ee05f4a51a355e0149e4cab596dce3a66285e55c5a7f6dd696d1d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34312f466c61675f6f665f417573747269612e737667",
+      "gdp": "429 billion USD (2020)"
+    },
+    {
+      "id": "4",
+      "countryName" : "China",
+      "currency" : "renminbi (yuan)",
+      "population" : "1.402 billion (2020)",
+      "flagUri" : "https://camo.githubusercontent.com/36b999b8d62e3dad262dec7ba75ef4cad465cec20fc3c75eaab329a6a63bf4ee/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66612f466c61675f6f665f7468655f50656f706c65253237735f52657075626c69635f6f665f4368696e612e737667",
+      "gdp": "14.72 trillion USD (2020)"
+    },
+    {
+      "id": "5",
+      "countryName" : "Australia",
+      "currency" : "Australian dollar",
+      "population" : "25.69 million (2020)",
+      "flagUri" : "https://camo.githubusercontent.com/bb9dbcbb04da38db15f3698045eeede7d61e2f36c8b50a39fcf32b8f9b114419/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38382f466c61675f6f665f4175737472616c69615f28636f6e766572746564292e737667",
+      "gdp": "1.331 trillion USD (2020)"
+    }
+      
+  ]
