@@ -1,0 +1,20 @@
+{
+  "item": [
+    {
+      "countryName": "Sri Lankasss",
+      "currency": "SL Rupeess",
+      "population": "d",
+      "flagUri": "https://camo.githubusercontent.com/7c0a6561230ee05f4a51a355e0149e4cab596dce3a66285e55c5a7f6dd696d1d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34312f466c61675f6f665f417573747269612e737667",
+      "gdp": "d",
+      "id" : 1
+    },
+    {
+      "countryName": "Sri Lanka",
+      "currency": "SL Rupee",
+      "population": "1545",
+      "flagUri": "https://camo.githubusercontent.com/7c0a6561230ee05f4a51a355e0149e4cab596dce3a66285e55c5a7f6dd696d1d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34312f466c61675f6f665f417573747269612e737667",
+      "gdp": "45",
+      "id" : 2
+    }
+  ]
+}
